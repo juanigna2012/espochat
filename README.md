@@ -12,9 +12,6 @@ BASIC: 4 vCores, 6 GB de RAM e 100 GB de SSD
 
 STANDARD: 6 vCores, 12 GB de RAM e 200 GB de SSD 
 
-```
-```
-
 📅 07/11/2024 – Versão 5.3.5
 
 📅 Correção da Data de Vencimento no Topo: Data agora permanece fixa. </br>
