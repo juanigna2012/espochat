@@ -8,64 +8,12 @@
 
 Sugestão de VPS:
 
-BASIC: 4 vCores, 6 GB de RAM e 100 GB de SSD NVMe $4.99 USD Mensal com taxa de setup de $4.99.
+BASIC: 4 vCores, 6 GB de RAM e 100 GB de SSD
 
-STANDARD: 6 vCores, 12 GB de RAM e 200 GB de SSD NVMe $9.99 USD Mensal com taxa de setup de $5.99.
-
-Utilize o cupom WHATICKET e obtenha 25% de desconto no primeiro pagamento.
+STANDARD: 6 vCores, 12 GB de RAM e 200 GB de SSD 
 
 ```
-https://control.peramix.com/?affid=14
 ```
-
-VPS 1000 G11: 4 vCores, 8 GB de RAM e 256 GB de SSD NVMe €5.75 Mensal.
-
-VPS 2000 G11: 8 vCores, 16 GB de RAM e 512 GB de SSD NVMe €12.60 USD Mensal.
-
-```
-https://www.netcup.com/en/?ref=257888
-```
-
-🚨 Atenção: 
-
-Estamos mudando a forma como lhe damos com o Whaticket.
-
-A Partir de agora disponibilizamos o acesso pago à versão mais atualizada, enquanto manteremos um diretório público e gratuito com uma versão um pouco mais defasada.
-
-Para adquirir a versão 5.5.0 acesse uma das opções de checkou a seguir:
-
-InfinityPay:
-```
-https://loja.infinitepay.io/launcher-tecnologia/aep0253-script-crm-whaticket-gold-com-saas-e-kanba
-```
-
-Kirvano:
-```
-https://pay.kirvano.com/a5103244-08d5-418f-8221-7172849dd65f
-```
-
-DFG:
-```
-https://www.dfg.com.br/pt/outros/script-crm-whaticket-gold-com-saas-e-kanban-inclusos-939289065
-```
-
-Você deve ter um usuário do Github e juntar-se à nossa organização para acesso ao diretório privado com a última versão, você receberá também as credencias do Github para instalação, usuário e token. 
-O acesso é vitalício, as credencias são periodicamente renovadas, você sempre terá a informação das novas.
-
-⚠️ Este diretório é uma cortesia da Launcher & Co. se você pagou por este acesso, foi enganado, recomendamos solicitar o estorno no seu cartão de crédito ou no seu banco.
-
-
-📅 13/12/2024 – Versão 5.5.0 = Versão Paga
-
-🛠️ Correção ao redimensionar área de ticket</br>
-✅ Validação de número no ContactModal</br>
-🔄 Regressão OpenAI para versão 3.3.0 e wbotMessageListener.ts</br>
-🎧 Áudio no iPhone</br>
-📵 Recusando chamadas automaticamente</br>
-📲 Filas da conexão ao requisitar novo QR Code</br>
-📊 Dashboard reformulado</br>
-📈 Página de relatórios</br>
-🗂️ Kanban reformulado</br>
 
 📅 07/11/2024 – Versão 5.3.5
 
@@ -105,20 +53,6 @@ O acesso é vitalício, as credencias são periodicamente renovadas, você sempr
 🎨 Alterar logo pelo Painel</br>
 🆕 Adicionado nova ABA Cadastrar Empresa</br>
 📋 Add Opção Plano Interno</br>
-
-Caso queira fazer uma contribuição, serei muito grato.</br>
-Chave Pix, aleatória:
-
-```
-efd3110c-e572-42b5-a6cb-5984a8811ad2
-```
-</br>
-
-Biblioteca Baileys Atualizada:</br>
-
-V 6.7.9
-
-Instalador atualizado, versao NodeJS 20:
 
 ```
 https://github.com/launcherbr/instalador.git
